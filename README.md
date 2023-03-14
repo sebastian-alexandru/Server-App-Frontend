@@ -14,4 +14,4 @@ FE: Angular, RxJS
 
 Containerization: Docker, Kubernetes
 
-![server](https://user-images.githubusercontent.com/101641598/224855358-a99948fa-073a-49d1-bc82-fa907cb6f32a.png)
+![server](https://user-images.githubusercontent.com/101641598/224861829-5119ad1f-5122-4b9d-9575-09cb9c98511e.png)
